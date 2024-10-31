@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="IDEF уровень А0">
     <mxGraphModel dx="1430" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-0" value="Зашифровать и дешифровать шифр Виженера" style="swimlane;startSize=0;fontSize=14;verticalAlign=top;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="480" width="300" height="200" as="geometry" />
+          <mxGeometry x="270" y="480" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -34,18 +34,18 @@
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="510" as="sourcePoint" />
-            <mxPoint x="280" y="510" as="targetPoint" />
+            <mxPoint x="10" y="510" as="sourcePoint" />
+            <mxPoint x="270" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="600" as="sourcePoint" />
-            <mxPoint x="280" y="600" as="targetPoint" />
+            <mxPoint x="10" y="600" as="sourcePoint" />
+            <mxPoint x="270" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-14" value="Слово/фраза для шифрования" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="480" width="200" height="30" as="geometry" />
+          <mxGeometry x="30" y="480" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-15" value="Ключ для шифрования" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="560" width="150" height="30" as="geometry" />
@@ -76,6 +76,178 @@
         </mxCell>
         <mxCell id="3vzP17PmA2K4EGFiLjuO-24" value="АО&lt;div&gt;(аппаратное&amp;nbsp;&lt;/div&gt;&lt;div&gt;обеспечение)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="685" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2u-vAV41J2oB2rSCHhei-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="579.66" as="sourcePoint" />
+            <mxPoint x="810" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2u-vAV41J2oB2rSCHhei-1" value="Успешно расшифрованное&lt;div&gt;слово/фраза&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="540" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mHoZJG-j8WEezvr3IRrq" name="IDEF уровень А1">
+    <mxGraphModel dx="1728" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7urHZ6gKuWOEgTduB0l-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.73" y="240" as="sourcePoint" />
+            <mxPoint x="99.6099999999999" y="239.7900000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7urHZ6gKuWOEgTduB0l-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.73" y="290" as="sourcePoint" />
+            <mxPoint x="100" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SypogzJMCspnKlEwU4q5-1" value="слово/фраза" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="208" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SypogzJMCspnKlEwU4q5-2" value="ключ для&amp;nbsp;&lt;div&gt;шифрования&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SypogzJMCspnKlEwU4q5-3" value="Зашифровать&#xa; слово/фразу обратимым &#xa;преобразованием" style="swimlane;startSize=0;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-1" value="Тайно передать &#xa;шифр &#xa;получателю" style="swimlane;startSize=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="150" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-4" value="Дешифровать &#xa;слово/фразу &#xa;обратным&#xa; преобразованием&#xa;&#xa;" style="swimlane;startSize=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.658;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="60" as="sourcePoint" />
+            <mxPoint x="220" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="60" />
+              <mxPoint x="580" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SypogzJMCspnKlEwU4q5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="20" as="sourcePoint" />
+            <mxPoint x="160" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-14" value="Таблица&lt;div&gt;Виженера&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-15" value="Знания о&amp;nbsp;&lt;div&gt;шифре Виженера&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="830" as="sourcePoint" />
+            <mxPoint x="130" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-17" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="580" as="sourcePoint" />
+            <mxPoint x="180" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-18" value="Отправитель&lt;div&gt;(шифровальщик)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="645" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="930" as="sourcePoint" />
+            <mxPoint x="520" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-20" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.803;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="830" as="sourcePoint" />
+            <mxPoint x="490" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="830" />
+              <mxPoint x="410" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-21" value="Получатель&lt;br&gt;(дешифровальщик)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="850" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-23" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.012;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SypogzJMCspnKlEwU4q5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="284.85" y="238" as="sourcePoint" />
+            <mxPoint x="389" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="238" />
+              <mxPoint x="390" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-24" value="Зашифрованное&amp;nbsp;&lt;div&gt;слово/фраза&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="198" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="52" y="291" as="sourcePoint" />
+            <mxPoint x="90" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="420" />
+              <mxPoint x="140" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SypogzJMCspnKlEwU4q5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="31.600000000000136" y="319.99999999999994" as="sourcePoint" />
+            <mxPoint x="470" y="609.2800000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="600" as="sourcePoint" />
+            <mxPoint x="790" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-29" value="Успешно расшифрованное&lt;div&gt;слово/фраза&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="550" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIR_NCdY2v-yMR42KCiM-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.429;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="500" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="300" />
+              <mxPoint x="500" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMRPoPVenwhUd8vpiQ4X-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.828;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1050" as="sourcePoint" />
+            <mxPoint x="244.20000000000005" y="329.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMRPoPVenwhUd8vpiQ4X-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1030" as="sourcePoint" />
+            <mxPoint x="300" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMRPoPVenwhUd8vpiQ4X-3" value="АО (аппаратное обеспечение)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="978" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
