@@ -121,16 +121,6 @@
         <mxCell id="WIR_NCdY2v-yMR42KCiM-4" value="Дешифровать &#xa;слово/фразу &#xa;обратным&#xa; преобразованием&#xa;&#xa;" style="swimlane;startSize=0;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="470" y="530" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="WIR_NCdY2v-yMR42KCiM-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.658;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="WIR_NCdY2v-yMR42KCiM-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="60" as="sourcePoint" />
-            <mxPoint x="220" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="60" />
-              <mxPoint x="580" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIR_NCdY2v-yMR42KCiM-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SypogzJMCspnKlEwU4q5-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="20" as="sourcePoint" />
@@ -248,6 +238,15 @@
             <Array as="points">
               <mxPoint x="53" y="460" />
               <mxPoint x="140" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3CXjXtCVP0H-ov4vAsB-5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.714;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WIR_NCdY2v-yMR42KCiM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="60" as="sourcePoint" />
+            <mxPoint x="570" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
